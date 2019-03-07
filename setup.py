@@ -19,7 +19,7 @@ classifiers = ['Development Status :: 4 - Beta',
 
 setup(name              = 'Adafruit_PureIO',
       version           = '0.2.3',
-	  url               = 'https://github.com/adafruit/Adafruit_Python_PureIO',
+	  url               = 'https://github.com/chasepellazar/Adafruit_Python_PureIO',
       author            = 'Tony DiCola / Adafruit Industries',
       author_email      = 'support@adafruit.com',
       description       = 'Pure python (i.e. no native extensions) access to Linux IO including I2C and SPI.  Drop in replacement for smbus and spidev modules.',
